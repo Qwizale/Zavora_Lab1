@@ -1,4 +1,4 @@
-public class Account {
+public class Account  {
      int number;
      char status;
      double money;

@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Transactions {
+public class Transactions  {
 
     public ArrayList<Account> transaction(char operation1, int account1, char operation2, int account2, double money, ArrayList<Account> accounts) {
         switch (account1) {
