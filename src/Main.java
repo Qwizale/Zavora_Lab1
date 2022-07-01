@@ -8,7 +8,7 @@ import static java.lang.Integer.parseInt;
 
 public class Main {
 
-    public static void main(String args[]) {
+    public static void main(String args[])   {
         Transactions transactions = new Transactions();
         ArrayList<Account> accounts = Accounts.getAccounts();
         Scanner in = new Scanner(System.in);
